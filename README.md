@@ -1,7 +1,9 @@
 # UniKeyChainAccess
 
-# wikiを参照ください
+wikiを参照ください
 # https://github.com/Mikan31-ama/UniKeyChainAccess/wiki/How-to-use
-#
-# Please show wiki
+
+Please show wiki
 # https://github.com/Mikan31-ama/UniKeyChainAccess/wiki/How-to-use
+
+*※使用は自己責任にてお願いします。*
